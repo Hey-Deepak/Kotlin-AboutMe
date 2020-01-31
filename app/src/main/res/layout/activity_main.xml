@@ -29,6 +29,8 @@
             android:id="@+id/done_button"
             style="@style/Widget.AppCompat.Button"
             android:layout_gravity="center"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_green_dark"
             android:textAlignment="gravity"/>
     <TextView
             android:layout_width="match_parent"
