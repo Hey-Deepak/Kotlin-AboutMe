@@ -12,7 +12,13 @@
         <item name="android:textColorHint">@color/colorPrimaryDark</item>
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:paddingTop">@dimen/small_padding</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
         <item name="android:layout_marginTop">@dimen/layout_margin</item>
+    </style>
+    <style name="NameStyle1" parent="NameStyle">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
     </style>
 
 </resources>
