@@ -24,8 +24,13 @@
             android:layout_height="match_parent" android:id="@+id/scroll_text">
         <TextView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:id="@+id/bio_text"
-                style="@style/NameStyle" android:text="@string/bio"/>
+                android:layout_height="wrap_content"
+                android:id="@+id/bio_text"
+                style="@style/NameStyle"
+                android:text="@string/bio"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:lineSpacingMultiplier="1.2"/>
     </ScrollView>
 
 </LinearLayout>
