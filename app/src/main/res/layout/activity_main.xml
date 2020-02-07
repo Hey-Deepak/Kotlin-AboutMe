@@ -15,7 +15,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:srcCompat="@android:drawable/btn_star_big_on"
-            android:id="@+id/imageView"
-            android:contentDescription="TODO"/>
+            android:id="@+id/star_image"
+            android:contentDescription="@string/yellow_star"
+            style="@style/NameStyle"/>
 
 </LinearLayout>
