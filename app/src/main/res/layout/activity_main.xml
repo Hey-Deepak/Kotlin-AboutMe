@@ -10,6 +10,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/name_text"
             android:textAlignment="center"
+
+            
             style="@style/NameStyle"/>
 
 </LinearLayout>
