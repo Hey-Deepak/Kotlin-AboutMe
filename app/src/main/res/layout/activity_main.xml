@@ -11,7 +11,9 @@
             android:id="@+id/name_text"
             android:textAlignment="center"
 
-            
+
+
+
             style="@style/NameStyle"/>
 
 </LinearLayout>
