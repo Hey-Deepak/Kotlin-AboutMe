@@ -1,6 +1,23 @@
 <resources>
     <string name="app_name">Kotlin - About Me</string>
-    <string name="my_name">Deepak CHOUDHARY</string>
+
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        My name is Deepak Choudhary.
+      \nMy name is Deepak Choudhary.
+        \n My name is Deepak Choudhary.
+        \nMy name is Deepak Choudhary.
+        \nMy name is Deepak Choudhary.
+        \nMy name is Deepak Choudhary.
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary.\n
+        My name is Deepak Choudhary. </string>
     <string name="my_name">Deepak CHOUDHARY</string>
 </resources>
